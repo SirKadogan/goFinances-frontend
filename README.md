@@ -14,16 +14,16 @@ This repository is a practice repository that displays a list of the user's inco
 ### :tv: Preview
 
 Main Screen listing expenses:
-![Main Preview](/src/assets/MainPreview.png);
+![Main Preview](/src/assets/MainPreview.png)
 
 Book import screen:
-![Import Preview](/src/assets/ImportPreview.png);
+![Import Preview](/src/assets/ImportPreview.png)
 
 ### :fire: How to run
 
 - You must first setup the backend provided at the top of the Readme.
-- Clone this repo
-- Run `yarn` to install dependencies
-- Run `yarn start` to start the server on port 3000;
+- Clone this repo.
+- Run `yarn` to install dependencies.
+- Run `yarn start` to start the server on port 3000.
 
 > <i>A csv file is provided at the root to test the book import</i>
