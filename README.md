@@ -1,4 +1,4 @@
-<div style = "color: #f4f4f4 background-color: #1c1b1e">
+<div style = "color: red">
 
 # GoFinances Frontend
 
