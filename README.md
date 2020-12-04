@@ -1,3 +1,5 @@
+<div style = "color: #f4f4f4 background-color: #1c1b1e">
+
 # GoFinances Frontend
 
 This repository is a practice repository that displays a list of the user's income and expenses. You can also do book imports of csv files.
@@ -27,3 +29,5 @@ Book import screen:
 - Run `yarn start` to start the server on port 3000.
 
 > <i>A csv file is provided at the root to test the book import</i>
+
+</div>
